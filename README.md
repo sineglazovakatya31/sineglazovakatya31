@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey :stuck_out_tongue_closed_eyes:	
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FvNHphM3JzemxxaGQ4Mm55Z2JydW1obzh0ZWYzbDF3d2lvempsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SUtKUblVAvwMkTvaiT/giphy.gif" width="500"/>
+<div id="header" align="center">   
+<a href="https://twitter.com/PrepedignaMiro1">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</div>
+  - :smiley:	 I like to study in my free time.
 
-<!--
-**sineglazovakatya31/sineglazovakatya31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - :kissing_smiling_eyes: I study code and develop myself.
 
-Here are some ideas to get you started:
+  - :hugs:	I help beginners and I am happy to accept help myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### :hammer_and_wrench: Languages and Tools :
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  </div>  
